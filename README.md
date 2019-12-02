@@ -4,7 +4,7 @@
 
 用到了ege图形库 [https://xege.org/](https://xege.org/)
 
-main.exe文件是游戏文件
+main.cpp 是主程序源代码
 
 map目录下的in.map文件为地图文件
 
